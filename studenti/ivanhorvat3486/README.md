@@ -1,3 +1,3 @@
-Folder studenta Ivan Horvat
+Folder studenta Frane jovic
 
 Molim te ovdje stavi sve svoje radove.
