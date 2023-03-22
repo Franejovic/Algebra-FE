@@ -1,3 +1,2 @@
-Folder studenta Frane jovic
-
-Molim te ovdje stavi sve svoje radove.
+Folder studenta Ivan Horvat
+Moja prva datoteka
